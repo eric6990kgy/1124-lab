@@ -1,0 +1,19 @@
+
+body {
+    color: yellow;
+    background-color: green;
+    font-family:"Times New Roman", serif;
+}
+
+h1 {
+    font-family: "Times New Roman", serif;
+}
+
+ul.navbar {
+    position: relative; 
+    top: 20px; 
+    left: 0;
+    width: 200px;
+    
+}
+
